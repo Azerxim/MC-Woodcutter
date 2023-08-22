@@ -33,6 +33,21 @@
     },
     {
     "item": "minecraft:chiseled_bookshelf"
+    },
+    {
+    "item": "minecraft:bookshelf"
+    },
+    {
+    "item": "minecraft:barrel"
+    },
+    {
+    "item": "minecraft:chest"
+    },
+    {
+    "item": "minecraft:beehive"
+    },
+    {
+    "item": "minecraft:lectern"
     }
   ],
   "result": "minecraft:jungle_planks",
