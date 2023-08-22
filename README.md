@@ -3,7 +3,7 @@
 
 # Woodcutter
 
-Version: 5.0
+Version: 6.0
 
 Minecraft: 1.20
 
