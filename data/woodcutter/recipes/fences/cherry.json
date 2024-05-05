@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:cherry_planks"
   },
-  "result": "minecraft:cherry_fence",
-  "group": "cutting_fences",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:cherry_fence"
+  },
+  "group": "cutting_fences"
 }

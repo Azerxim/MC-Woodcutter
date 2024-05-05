@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:dark_oak_planks"
   },
-  "result": "minecraft:dark_oak_door",
-  "group": "cutting_doors",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:dark_oak_door"
+  },
+  "group": "cutting_doors"
 }

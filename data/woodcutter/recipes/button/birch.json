@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:birch_planks"
   },
-  "result": "minecraft:birch_button",
-  "group": "cutting_buttons",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_button"
+  },
+  "group": "cutting_buttons"
 }

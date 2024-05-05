@@ -1,14 +1,16 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": [
+	"type": "minecraft:stonecutting",
+	"ingredient": [
 		{
-	    "item": "minecraft:birch_planks"
-	  },
+			"item": "minecraft:birch_planks"
+		},
 		{
-	    "item": "minecraft:birch_boat"
-	  }
+			"item": "minecraft:birch_boat"
+		}
 	],
-  "result": "minecraft:birch_chest_boat",
-  "group": "cutting_boats",
-  "count": 1
+	"result": {
+		"count": 1,
+		"id": "minecraft:birch_chest_boat"
+	},
+	"group": "cutting_boats"
 }

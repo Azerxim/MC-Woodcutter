@@ -47,7 +47,9 @@
     "item": "minecraft:lectern"
     }
   ],
-  "result": "minecraft:crimson_planks",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:crimson_planks"
+  },
+  "group": "cutting_blocks"
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:oak_planks"
   },
-  "result": "minecraft:oak_fence",
-  "group": "cutting_fences",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:oak_fence"
+  },
+  "group": "cutting_fences"
 }

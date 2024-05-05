@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:bamboo_planks"
   },
-  "result": "minecraft:bamboo_button",
-  "group": "cutting_buttons",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:bamboo_button"
+  },
+  "group": "cutting_buttons"
 }

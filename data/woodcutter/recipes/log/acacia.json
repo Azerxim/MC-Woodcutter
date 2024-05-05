@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:stripped_acacia_log"
   },
-  "result": "minecraft:acacia_log",
-  "group": "cutting_logs",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:acacia_log"
+  },
+  "group": "cutting_logs"
 }

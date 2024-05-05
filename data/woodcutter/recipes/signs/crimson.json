@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:crimson_planks"
   },
-  "result": "minecraft:crimson_sign",
-  "group": "cutting_signs",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:crimson_sign"
+  },
+  "group": "cutting_signs"
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:stick"
   },
-  "result": "minecraft:armor_stand",
-  "group": "cutting",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:armor_stand"
+  },
+  "group": "cutting"
 }

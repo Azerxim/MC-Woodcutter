@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:warped_planks"
   },
-  "result": "minecraft:warped_fence_gate",
-  "group": "cutting_fence_gates",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_fence_gate"
+  },
+  "group": "cutting_fence_gates"
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:bamboo_planks"
   },
-  "result": "minecraft:bamboo_trapdoor",
-  "group": "cutting_trapdoors",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:bamboo_trapdoor"
+  },
+  "group": "cutting_trapdoors"
 }

@@ -8,7 +8,9 @@
     "item": "minecraft:stripped_oak_wood"
     }
   ],
-  "result": "minecraft:oak_wood",
-  "group": "cutting_woods",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:oak_wood"
+  },
+  "group": "cutting_woods"
 }

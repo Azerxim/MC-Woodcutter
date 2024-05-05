@@ -35,7 +35,9 @@
     "item": "minecraft:bamboo_planks"
     }
   ],
-  "result": "minecraft:stick",
-  "group": "cutting",
-  "count": 2
+  "result": {
+    "count": 2,
+    "id": "minecraft:stick"
+  },
+  "group": "cutting"
 }

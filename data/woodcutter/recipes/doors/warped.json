@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:warped_planks"
   },
-  "result": "minecraft:warped_door",
-  "group": "cutting_doors",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_door"
+  },
+  "group": "cutting_doors"
 }

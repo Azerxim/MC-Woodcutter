@@ -50,7 +50,9 @@
     "item": "minecraft:lectern"
     }
   ],
-  "result": "minecraft:cherry_planks",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:cherry_planks"
+  },
+  "group": "cutting_blocks"
 }

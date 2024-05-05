@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:warped_stem"
   },
-  "result": "minecraft:warped_hyphae",
-  "group": "cutting_woods",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_hyphae"
+  },
+  "group": "cutting_woods"
 }

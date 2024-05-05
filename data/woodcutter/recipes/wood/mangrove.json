@@ -8,7 +8,9 @@
     "item": "minecraft:stripped_mangrove_wood"
     }
   ],
-  "result": "minecraft:mangrove_wood",
-  "group": "cutting_woods",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:mangrove_wood"
+  },
+  "group": "cutting_woods"
 }

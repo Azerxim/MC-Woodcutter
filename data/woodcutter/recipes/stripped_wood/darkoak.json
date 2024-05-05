@@ -11,7 +11,9 @@
     "item": "minecraft:stripped_dark_oak_log"
     }
   ],
-  "result": "minecraft:stripped_dark_oak_wood",
-  "group": "cutting_woods",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_dark_oak_wood"
+  },
+  "group": "cutting_woods"
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:birch_planks"
   },
-  "result": "minecraft:birch_trapdoor",
-  "group": "cutting_trapdoors",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_trapdoor"
+  },
+  "group": "cutting_trapdoors"
 }

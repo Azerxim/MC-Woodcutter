@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:birch_planks"
   },
-  "result": "minecraft:birch_sign",
-  "group": "cutting_signs",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_sign"
+  },
+  "group": "cutting_signs"
 }

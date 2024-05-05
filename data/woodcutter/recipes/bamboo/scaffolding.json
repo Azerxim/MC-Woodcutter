@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:bamboo"
   },
-  "result": "minecraft:scaffolding",
-  "group": "cutting",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:scaffolding"
+  },
+  "group": "cutting"
 }
