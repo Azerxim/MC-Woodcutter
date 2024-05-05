@@ -3,9 +3,9 @@
 
 # Woodcutter
 
-Version: 6.0
+Version: 6.1
 
-Minecraft: 1.20
+Minecraft: 1.20.6
 
 
 ### **Use the stonecutter as a woodcutter!**
