@@ -3,12 +3,12 @@
 
 # Woodcutter
 
-Version: 7.0
+Version: 7.1
 
-Minecraft: 1.21
+Minecraft: 1.21.3
 
+## **Use the stonecutter as a woodcutter!**
 
-### **Use the stonecutter as a woodcutter!**
 ![Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_chene-32.png)
 ![Dark Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_chene_noir-32.png)
 ![Birch](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_bouleau-32.png)
@@ -35,5 +35,6 @@ Minecraft: 1.21
 
 ![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.png)
 
---------------------------------------------
-[![TopazDev](https://dl.topazdev.fr/stock/images/web/topazdev-smoothwhite.png)](https://minecraft.topazdev.fr/)
+---
+
+[![TopazDev](https://dl.topazdev.fr/stock/images/web/spinelle_galaxie.png)](https://spinelle.eu/minecraft/)

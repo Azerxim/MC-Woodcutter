@@ -4,12 +4,10 @@
   	"##"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:birch_slab"
-    }
+    "#": "minecraft:birch_slab"
   },
   "result": {
-    "item": "minecraft:birch_planks",
+    "id": "minecraft:birch_planks",
     "count": 1
   },
   "group": "slabs_uncraftable"

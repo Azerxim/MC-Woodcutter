@@ -1,12 +1,8 @@
 {
 	"type": "minecraft:stonecutting",
 	"ingredient": [
-		{
-			"item": "minecraft:oak_planks"
-		},
-		{
-			"item": "minecraft:oak_boat"
-		}
+		"minecraft:oak_planks",
+		"minecraft:oak_boat"
 	],
 	"result": {
 		"count": 1,

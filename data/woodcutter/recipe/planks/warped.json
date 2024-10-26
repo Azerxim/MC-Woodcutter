@@ -1,51 +1,21 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-    "item": "minecraft:warped_fence"
-    },
-		{
-    "item": "minecraft:warped_fence_gate"
-    },
-    {
-    "item": "minecraft:warped_stairs"
-    },
-    {
-    "item": "minecraft:warped_trapdoor"
-    },
-    {
-    "item": "minecraft:warped_button"
-    },
-    {
-    "item": "minecraft:warped_door"
-    },
-    {
-    "item": "minecraft:warped_pressure_plate"
-    },
-    {
-    "item": "minecraft:warped_sign"
-    },
-    {
-    "item": "minecraft:warped_hanging_sign"
-    },
-    {
-    "item": "minecraft:chiseled_bookshelf"
-    },
-    {
-    "item": "minecraft:bookshelf"
-    },
-    {
-    "item": "minecraft:barrel"
-    },
-    {
-    "item": "minecraft:chest"
-    },
-    {
-    "item": "minecraft:beehive"
-    },
-    {
-    "item": "minecraft:lectern"
-    }
+    "minecraft:warped_fence",
+		"minecraft:warped_fence_gate",
+    "minecraft:warped_stairs",
+    "minecraft:warped_trapdoor",
+    "minecraft:warped_button",
+    "minecraft:warped_door",
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_sign",
+    "minecraft:warped_hanging_sign",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:bookshelf",
+    "minecraft:barrel",
+    "minecraft:chest",
+    "minecraft:beehive",
+    "minecraft:lectern"
   ],
   "result": {
     "count": 1,

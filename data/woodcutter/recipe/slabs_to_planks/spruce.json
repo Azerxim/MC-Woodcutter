@@ -4,12 +4,10 @@
   	"##"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:spruce_slab"
-    }
+    "#": "minecraft:spruce_slab"
   },
   "result": {
-    "item": "minecraft:spruce_planks",
+    "id": "minecraft:spruce_planks",
     "count": 1
   },
   "group": "slabs_uncraftable"

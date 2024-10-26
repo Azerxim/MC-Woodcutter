@@ -1,54 +1,22 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-    "item": "minecraft:jungle_fence"
-    },
-		{
-    "item": "minecraft:jungle_fence_gate"
-    },
-    {
-    "item": "minecraft:jungle_stairs"
-    },
-    {
-    "item": "minecraft:jungle_trapdoor"
-    },
-    {
-    "item": "minecraft:jungle_button"
-    },
-    {
-    "item": "minecraft:jungle_door"
-    },
-    {
-    "item": "minecraft:jungle_pressure_plate"
-    },
-    {
-    "item": "minecraft:jungle_sign"
-    },
-    {
-    "item": "minecraft:jungle_hanging_sign"
-    },
-    {
-    "item": "minecraft:jungle_boat"
-    },
-    {
-    "item": "minecraft:chiseled_bookshelf"
-    },
-    {
-    "item": "minecraft:bookshelf"
-    },
-    {
-    "item": "minecraft:barrel"
-    },
-    {
-    "item": "minecraft:chest"
-    },
-    {
-    "item": "minecraft:beehive"
-    },
-    {
-    "item": "minecraft:lectern"
-    }
+    "minecraft:jungle_fence",
+		"minecraft:jungle_fence_gate",
+    "minecraft:jungle_stairs",
+    "minecraft:jungle_trapdoor",
+    "minecraft:jungle_button",
+    "minecraft:jungle_door",
+    "minecraft:jungle_pressure_plate",
+    "minecraft:jungle_sign",
+    "minecraft:jungle_hanging_sign",
+    "minecraft:jungle_boat",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:bookshelf",
+    "minecraft:barrel",
+    "minecraft:chest",
+    "minecraft:beehive",
+    "minecraft:lectern"
   ],
   "result": {
     "count": 1,

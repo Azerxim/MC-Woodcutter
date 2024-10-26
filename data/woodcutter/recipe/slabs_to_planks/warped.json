@@ -4,12 +4,10 @@
   	"##"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:warped_slab"
-    }
+    "#": "minecraft:warped_slab"
   },
   "result": {
-    "item": "minecraft:warped_planks",
+    "id": "minecraft:warped_planks",
     "count": 1
   },
   "group": "slabs_uncraftable"

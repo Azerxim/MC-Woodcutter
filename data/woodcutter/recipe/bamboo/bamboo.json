@@ -1,15 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-    "item": "minecraft:bamboo_block"
-    },
-    {
-    "item": "minecraft:bamboo_planks"
-    },
-    {
-    "item": "minecraft:scaffolding"
-    }
+    "minecraft:bamboo_block",
+    "minecraft:bamboo_planks",
+    "minecraft:scaffolding"
   ],
   "result": {
     "count": 1,

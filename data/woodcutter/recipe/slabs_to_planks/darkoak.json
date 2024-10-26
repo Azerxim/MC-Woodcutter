@@ -4,12 +4,10 @@
   	"##"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:dark_oak_slab"
-    }
+    "#": "minecraft:dark_oak_slab"
   },
   "result": {
-    "item": "minecraft:dark_oak_planks",
+    "id": "minecraft:dark_oak_planks",
     "count": 1
   },
   "group": "slabs_uncraftable"

@@ -4,12 +4,10 @@
   	"##"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:crimson_slab"
-    }
+    "#": "minecraft:crimson_slab"
   },
   "result": {
-    "item": "minecraft:crimson_planks",
+    "id": "minecraft:crimson_planks",
     "count": 1
   },
   "group": "slabs_uncraftable"

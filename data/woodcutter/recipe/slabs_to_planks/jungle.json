@@ -4,12 +4,10 @@
   	"##"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:jungle_slab"
-    }
+    "#": "minecraft:jungle_slab"
   },
   "result": {
-    "item": "minecraft:jungle_planks",
+    "id": "minecraft:jungle_planks",
     "count": 1
   },
   "group": "slabs_uncraftable"

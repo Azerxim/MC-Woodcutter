@@ -1,15 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-    "item": "minecraft:armor_stand"
-    },
-    {
-    "item": "minecraft:item_frame"
-    },
-    {
-    "item": "minecraft:painting"
-    }
+    "minecraft:armor_stand",
+    "minecraft:item_frame",
+    "minecraft:painting"
   ],
   "result": {
     "count": 1,
