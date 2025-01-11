@@ -3,9 +3,9 @@
 
 # Woodcutter
 
-Version: 7.1
+Version: 7.2
 
-Minecraft: 1.21.3
+Minecraft: 1.21.4
 
 ## **Use the stonecutter as a woodcutter!**
 
@@ -17,6 +17,7 @@ Minecraft: 1.21.3
 ![Acacia](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_acacia-32.png)
 ![Mangrove](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_mangrove-32.png)
 ![Cherry](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_cherry-32.png)
+![Pale Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_pale_oak-32.png)
 ![Bamboo](https://dl.topazdev.fr/stock/images/datapack/woodcutter/block_bamboo-32.png)
 ![Crimson](https://dl.topazdev.fr/stock/images/datapack/woodcutter/crimson_stem-32.png)
 ![Warped](https://dl.topazdev.fr/stock/images/datapack/woodcutter/warped_stem-32.png)
