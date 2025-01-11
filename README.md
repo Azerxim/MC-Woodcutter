@@ -35,7 +35,3 @@ Minecraft: 1.21.4
 ![Boat to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/boat.png)
 
 ![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.png)
-
----
-
-[![TopazDev](https://dl.topazdev.fr/stock/images/web/spinelle_galaxie.png)](https://spinelle.eu/minecraft/)
