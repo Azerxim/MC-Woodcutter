@@ -5,7 +5,7 @@
 
 Version: 7.2
 
-Minecraft: 1.21.4
+Minecraft: 1.21.4 - 1.21.5
 
 ## **Use the stonecutter as a woodcutter!**
 
