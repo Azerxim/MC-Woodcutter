@@ -3,11 +3,20 @@
 
 # Woodcutter
 
-Version: 7.2
+**Use the stonecutter as a woodcutter!**
 
-Minecraft: 1.21.4 - 1.21.5
+This fully vanilla data pack adds new recipes to the **stonecutter**, letting it cut and recycle wood — the same way it already does for stone.
 
-## **Use the stonecutter as a woodcutter!**
+## ✨ Features
+
+- **Logs → Planks**: turn logs or stripped logs straight into planks with a clean, precise recipe — no wasteful crafting.
+- **Planks → cut variants**: craft decorative plank variants directly from the stonecutter.
+- **Recycling**: recover planks from **stairs**, **slabs**, and **boats** — never waste wood on a bad build again, just cut it back down.
+- **No new blocks or items**: purely new recipes, 100% vanilla. No commands to learn, no new UI.
+
+## 🌳 Supported wood types
+
+Works with **every** wood type in the game:
 
 ![Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_chene-32.png)
 ![Dark Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_chene_noir-32.png)
@@ -22,7 +31,10 @@ Minecraft: 1.21.4 - 1.21.5
 ![Crimson](https://dl.topazdev.fr/stock/images/datapack/woodcutter/crimson_stem-32.png)
 ![Warped](https://dl.topazdev.fr/stock/images/datapack/woodcutter/warped_stem-32.png)
 
-## Recipes
+Oak, Dark Oak, Birch, Spruce, Jungle, Acacia, Mangrove, Cherry, Pale Oak, Bamboo, plus the Nether variants **Crimson** and **Warped**.
+
+<details>
+<summary>Recipes</summary>
 
 ![Logs cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/logs.png)
 
@@ -35,3 +47,25 @@ Minecraft: 1.21.4 - 1.21.5
 ![Boat to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/boat.png)
 
 ![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.png)
+
+</details>
+
+## 🕹️ How to use
+
+1. Install the data pack into your world's `datapacks` folder (or via `/datapack enable`).
+2. Open a stonecutter as usual.
+3. Find your new wood recipes right next to the classic stone ones.
+
+Survival- and multiplayer-safe, with zero performance impact.
+
+## 📦 Compatibility
+
+| | |
+|---|---|
+| **Minecraft versions** | 1.19.x · 1.20.x · 1.21.x · 26.1 · 26.2 |
+| **Type** | Data Pack (no mods required) |
+| **License** | MIT |
+
+## 📥 Installation
+
+Like any data pack: drop the downloaded folder into `.minecraft/saves/<your_world>/datapacks/`, then run `/reload` or restart the world.
