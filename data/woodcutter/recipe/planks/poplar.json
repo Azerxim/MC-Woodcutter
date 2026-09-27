@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:poplar_fence",
+    "minecraft:poplar_fence_gate",
+    "minecraft:poplar_stairs",
+    "minecraft:poplar_trapdoor",
+    "minecraft:poplar_button",
+    "minecraft:poplar_door",
+    "minecraft:poplar_pressure_plate",
+    "minecraft:poplar_sign",
+    "minecraft:poplar_hanging_sign",
+    "minecraft:poplar_shelf",
+    "minecraft:poplar_boat",
+    "minecraft:chiseled_bookshelf",
+    "minecraft:bookshelf",
+    "minecraft:barrel",
+    "minecraft:chest",
+    "minecraft:beehive",
+    "minecraft:lectern"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poplar_planks"
+  },
+  "group": "cutting_blocks"
+}

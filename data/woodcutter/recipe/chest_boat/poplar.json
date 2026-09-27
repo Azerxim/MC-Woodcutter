@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:poplar_planks", "minecraft:poplar_boat"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poplar_chest_boat"
+  },
+  "group": "cutting_boats"
+}

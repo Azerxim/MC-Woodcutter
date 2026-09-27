@@ -10,7 +10,7 @@ This fully vanilla data pack adds new recipes to the **stonecutter**, letting it
 ## ✨ Features
 
 - **Logs & wood**: switch between logs, stripped logs, wood and stripped wood.
-- **Planks → wooden blocks**: cut planks into **stairs**, **slabs** (×2), **doors**, **trapdoors**, **fences**, **fence gates**, **buttons**, **pressure plates**, **signs**, **hanging signs**, **boats** and **chest boats** (bamboo planks also give **bamboo mosaic**).
+- **Planks → wooden blocks**: cut planks into **stairs**, **slabs** (×2), **doors**, **trapdoors**, **fences**, **fence gates**, **buttons**, **pressure plates**, **signs**, **hanging signs**, **shelves**, **boats** and **chest boats** (bamboo planks also give **bamboo mosaic**).
 - **Planks → utility blocks**: any plank type gives **sticks** (×2), **chests**, **barrels**, **bookshelves**, **chiseled bookshelves**, **lecterns** and **beehives**.
 - **Recycling**: turn stairs, fences, fence gates, doors, trapdoors, buttons, pressure plates, signs, hanging signs, shelves, boats and utility blocks back into planks — never waste wood on a bad build again. Boats and chest boats convert into each other.
 - **Slabs → planks**: two slabs placed side by side in a crafting table give back one plank.
@@ -35,7 +35,7 @@ Works with **every** wood type in the game:
 ![Crimson](https://dl.topazdev.fr/stock/images/datapack/woodcutter/crimson_stem-32.png)
 ![Warped](https://dl.topazdev.fr/stock/images/datapack/woodcutter/warped_stem-32.png)
 
-Oak, Dark Oak, Birch, Spruce, Jungle, Acacia, Mangrove, Cherry, Pale Oak, Bamboo, plus the Nether variants **Crimson** and **Warped**.
+Oak, Dark Oak, Birch, Spruce, Jungle, Acacia, Mangrove, Cherry, Pale Oak, Poplar, Bamboo, plus the Nether variants **Crimson** and **Warped**.
 
 <details>
 <summary>Recipes</summary>
@@ -66,7 +66,7 @@ Survival- and multiplayer-safe, with zero performance impact.
 
 | | |
 |---|---|
-| **Minecraft versions** | 1.19.x · 1.20.x · 1.21.x · 26.1 · 26.2 |
+| **Minecraft versions** | 1.19.x · 1.20.x · 1.21.x · 26.1 · 26.2 · 26.3 |
 | **Type** | Data Pack (no mods required) |
 | **License** | MIT |
 
