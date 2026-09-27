@@ -9,9 +9,13 @@ This fully vanilla data pack adds new recipes to the **stonecutter**, letting it
 
 ## ✨ Features
 
-- **Logs → Planks**: turn logs or stripped logs straight into planks with a clean, precise recipe — no wasteful crafting.
-- **Planks → cut variants**: craft decorative plank variants directly from the stonecutter.
-- **Recycling**: recover planks from **stairs**, **slabs**, and **boats** — never waste wood on a bad build again, just cut it back down.
+- **Logs & wood**: switch between logs, stripped logs, wood and stripped wood.
+- **Planks → wooden blocks**: cut planks into **stairs**, **slabs** (×2), **doors**, **trapdoors**, **fences**, **fence gates**, **buttons**, **pressure plates**, **signs**, **hanging signs**, **boats** and **chest boats** (bamboo planks also give **bamboo mosaic**).
+- **Planks → utility blocks**: any plank type gives **sticks** (×2), **chests**, **barrels**, **bookshelves**, **chiseled bookshelves**, **lecterns** and **beehives**.
+- **Recycling**: turn stairs, fences, fence gates, doors, trapdoors, buttons, pressure plates, signs, hanging signs, shelves, boats and utility blocks back into planks — never waste wood on a bad build again. Boats and chest boats convert into each other.
+- **Slabs → planks**: two slabs placed side by side in a crafting table give back one plank.
+- **Sticks**: cut sticks into **armor stands**, **item frames** and **paintings**, and back again.
+- **Bamboo**: bamboo blocks, bamboo planks and scaffolding give back bamboo; bamboo gives scaffolding.
 - **No new blocks or items**: purely new recipes, 100% vanilla. No commands to learn, no new UI.
 
 ## 🌳 Supported wood types
@@ -52,7 +56,7 @@ Oak, Dark Oak, Birch, Spruce, Jungle, Acacia, Mangrove, Cherry, Pale Oak, Bamboo
 
 ## 🕹️ How to use
 
-1. Install the data pack into your world's `datapacks` folder (or via `/datapack enable`).
+1. Install the data pack into your world's `datapacks` folder (see [Installation](#-installation)).
 2. Open a stonecutter as usual.
 3. Find your new wood recipes right next to the classic stone ones.
 
